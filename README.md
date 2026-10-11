@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hi there, I'm Anuruddh Sharma 👋
 
@@ -39,8 +39,8 @@ I am a Computer Science student and developer passionate about building robust b
 
 ### 🌐 Connect With Me
 
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/anuruddh-sharma/)
-* **LeetCode:** [Your LeetCode Profile](https://leetcode.com/u/anuruddh_sharma/)
+* **LinkedIn:** (https://www.linkedin.com/in/anuruddh-sharma/)
+* **LeetCode:** (https://leetcode.com/u/anuruddh_sharma/)
 * **Email:** anuruddh1706@gmail.com
 
 ---
